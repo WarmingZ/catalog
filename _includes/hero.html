@@ -7,8 +7,11 @@
           <h1 class="hero__title">{{ site.data.settings.author.say-hello }}</h1>
           <p class="hero__subtitle">{{ site.data.settings.author.bio }}</p>
           <div class="hero__social">
-            <span class="hero__social-title">Стежити (Тут можу дати ссилку на тебе або на олх) |</span>
-            {% include contact-link.html %}
+            <!-- <span class="hero__social-title">Стежити (Тут можу дати ссилку на тебе або на олх) |</span>
+            {% include contact-link.html %} -->
+						<p class="hero__subtitle">
+						Категорії товарів:   {{ site | tag_cloud }}
+						</p>
           </div>
         </div>
       </div>
@@ -21,3 +24,10 @@
   </div>
 </div>
 <!-- end hero -->
+
+<style>
+	.set-5 {
+		text-decoration: underline;
+		padding-right: 5px;
+	}
+</style>
