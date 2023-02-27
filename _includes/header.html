@@ -4,7 +4,8 @@
       <!-- begin header -->
       <header class="header">
 
-        <div class="logo">
+			<!-- TODO: Logo -->
+        <!-- <div class="logo">
           <a class="logo__link" href="{{site.baseurl}}/">
           {%if site.data.settings.logo %}
             <img class="logo__image" src="{{ site.baseurl }}/images/{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
@@ -12,7 +13,7 @@
             {{ site.data.settings.title }}
           {% endif %}
           </a>
-        </div>
+        </div> -->
 
         <nav class="main-nav">
 
@@ -21,11 +22,11 @@
               <i class="ion ion-ios-close-circle-outline"></i>
             </div>
 
-            <div class="nav__title">Menu</div>
+            <div class="nav__title">Меню</div>
 
             <ul class="nav__list list-reset">
               <li class="nav__item">
-                <a href="{{site.baseurl}}/" class="nav__link">Home</a>
+                <a href="{{site.baseurl}}/" class="nav__link">Головна</a>
               </li>
               {% for page in site.pages %}
                 {% unless page.name == 'tags.html' or page.name == '404.html' %}

@@ -63,7 +63,7 @@
 }
 
 .post-image {
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     background-color: $light-gray;
@@ -144,7 +144,7 @@
       display: block;
       margin-bottom: 40px;
       background-position: center;
-      background-size: cover;
+      background-size: contain;
       background-repeat: no-repeat;
       background-color: $light-gray;
       transition: .35s ease-in-out;

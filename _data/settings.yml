@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: 
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: 
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  name: Victoria's Secret
+  image: Victoria-Secret-Logo.png
+  say-hello: Привіт, це каталог наявних товарів <strong>Victoria's Secret</strong>
+  bio: Ось тут ми пишемо який прекрасний в нас та оригінальний товар а не з аліекспресу і краківського базару
 
 
 #-------------------------------
