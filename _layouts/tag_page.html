@@ -5,9 +5,17 @@ layout: default
 <div class="arhive-head">
   <div class="container">
     <h1 class="archive-title"><span>{{ page.tag }}</span></h1>
+		<p class="archive-title">
+	  {{ site | tag_cloud }}
+			</p>
   </div>
 </div>
 
+<style>
+	.set-1{
+		padding-right: 15px;
+	}
+</style>
 
 {% for post in page.posts %}
   {% include article-content.html %}
