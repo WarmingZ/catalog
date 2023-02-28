@@ -3,7 +3,7 @@ layout: post
 title: Lip Rescue SetVictoria's Secret
 date: 2023-02-28 12:01:35 +0300
 tags: Набір
-image: Lip.png
+image: Lip.webp
 ---
 
 Подарунковий набір догляду для губ Victoria's Secret 

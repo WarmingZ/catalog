@@ -3,7 +3,7 @@ layout: post
 title: Bombshell Seduction🌸
 date: 2023-02-28 11:01:35 +0300
 tags: Спрей
-image: boombshel.png
+image: boombshel.webp
 ---
 
 Міні парфумований спрей для тіла **Bombshell Seduction**

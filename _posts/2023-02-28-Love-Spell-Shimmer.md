@@ -3,7 +3,7 @@ layout: post
 title: Парфумований лосьйон для тіла з ефектом мерехтіння Love Spell Shimmer
 date: 2023-02-28 11:30:35 +0300
 tags: Лосьйон
-image: spell.png
+image: spell.webp
 ---
 
 Парфумований лосьйон для тіла з ефектом мерехтіння **Love Spell Shimmer**

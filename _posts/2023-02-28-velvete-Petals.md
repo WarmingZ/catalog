@@ -3,7 +3,7 @@ layout: post
 title: Парфумований лосьйон для тіла Velvet Petals
 date: 2023-02-28 11:30:35 +0300
 tags: Лосьйон
-image: Petals2.png
+image: Petals2.webp
 ---
 
 Парфумований лосьйон для тіла **Velvet Petals**

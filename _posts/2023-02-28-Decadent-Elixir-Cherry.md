@@ -3,7 +3,7 @@ layout: post
 title: Парфумований спрей для тіла Decadent Elixir Cherry No. 33
 date: 2023-02-28 11:30:35 +0300
 tags: Спрей
-image: Cherry2.png
+image: Cherry2.webp
 ---
 
 Парфумований спрей для тіла **Decadent Elixir Cherry No. 33**

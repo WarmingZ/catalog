@@ -3,7 +3,7 @@ layout: post
 title: Парфумований спрей для тіла Heavenly Fruit
 date: 2023-02-28 11:30:35 +0300
 tags: Спрей
-image: fruit.png
+image: fruit.webp
 ---
 
 Парфумований спрей для тіла **Heavenly Fruit**

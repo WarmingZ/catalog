@@ -2,7 +2,7 @@
 layout: post
 title:  Bath & Body Works Coconut Mist 🥥
 date:   2023-02-27 12:01:35 +0300
-image:  Coconut.jpg
+image:  Coconut.webp
 tags:   Спрей
 ---
 
